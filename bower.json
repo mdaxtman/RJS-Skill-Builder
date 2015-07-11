@@ -1,0 +1,19 @@
+{
+  "name": "RJS-Skill-Builder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mdaxtman/RJS-Skill-Builder",
+  "authors": [
+    "Mike Axtman <mdaxtman@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
