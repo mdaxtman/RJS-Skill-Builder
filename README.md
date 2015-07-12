@@ -11,7 +11,7 @@ npm install bower -g
 bower install
 ```    
 
-####2 When you have the above dependencies installed, start the server--
+####2. When you have the above dependencies installed, start the server--
 ```sh
 npm start
 ```
