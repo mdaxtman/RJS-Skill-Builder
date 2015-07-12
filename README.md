@@ -2,7 +2,7 @@
 
 To run this project locally you must have node.js installed on your machine.
 
-####1 run the following commands before starting the server
+####1. Run the following commands before starting the server
 ```sh
 npm install
 npm install gulp -g
@@ -11,7 +11,7 @@ npm install bower -g
 bower install
 ```    
 
-####2if you have the above dependencies installed, start the server--
+####2 When you have the above dependencies installed, start the server--
 ```sh
 npm start
 ```
