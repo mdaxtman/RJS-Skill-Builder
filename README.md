@@ -1,5 +1,16 @@
 # RJS-Skill-Builder
 
+To run this project locally you must have node.js installed on your machine.
+
+run the following commands before starting the server
+    npm install gulp -g
+    npm install nodemon -g
+    npm install bower -g
+    bower install
+    
+if you have the above dependencies installed, start the server--
+    npm start
+
 TEAM GOAL
 In refining our direction/mission/taglines, let's keep scalability in mind. How can we build something attractive to other 
 language/dev communities. Let's not just pioneer for our project, but for others in their respective niches too.
