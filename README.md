@@ -3,17 +3,17 @@
 To run this project locally you must have node.js installed on your machine.
 
 ####1 run the following commands before starting the server
-'''sh
+```sh
 npm install gulp -g
 npm install nodemon -g
 npm install bower -g
 bower install
-'''    
+```    
 
 ####2if you have the above dependencies installed, start the server--
-'''sh
+```sh
 npm start
-'''
+```
 
 ####TEAM GOAL
 In refining our direction/mission/taglines, let's keep scalability in mind. How can we build something attractive to other 
