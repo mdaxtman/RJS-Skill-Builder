@@ -1,4 +1,4 @@
-# RJS-Skill-Builder
+# RJS-Workshop-Portal
 
 To run this project locally you must have node.js installed on your machine.
 
