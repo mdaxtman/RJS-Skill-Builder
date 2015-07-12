@@ -2,26 +2,30 @@
 
 To run this project locally you must have node.js installed on your machine.
 
-run the following commands before starting the server
-    npm install gulp -g
-    npm install nodemon -g
-    npm install bower -g
-    bower install
-    
-if you have the above dependencies installed, start the server--
-    npm start
+####1 run the following commands before starting the server
+'''sh
+npm install gulp -g
+npm install nodemon -g
+npm install bower -g
+bower install
+'''    
 
-TEAM GOAL
+####2if you have the above dependencies installed, start the server--
+'''sh
+npm start
+'''
+
+####TEAM GOAL
 In refining our direction/mission/taglines, let's keep scalability in mind. How can we build something attractive to other 
 language/dev communities. Let's not just pioneer for our project, but for others in their respective niches too.
 
 
-PROJECT NAME IDEAS
+####PROJECT NAME IDEAS
 JS Growth Engine
 Javascript Learning Framework
 
 
-TAGLINE CONCEPTS
+####TAGLINE CONCEPTS
 Map self, grow self, fun self.
 Join us and learn awesome stuff.
 Grow by learning, grow by giving.
@@ -34,7 +38,7 @@ JavaScript's recursive learning engine.
 Learn javascript.
 
 
-MISSION
+####MISSION
 We're a community of students and professionals, each investing into ourselves and others. We're each here to grow, help 
 others and find help. Our goal is to provide novice developers with a 'map' to help navigate the ordeal of learning 
 professional JavaScript programming. The cycle from novice to professional to master is perpetual, but each lap around the 
